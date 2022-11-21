@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2? family= Roboto+Mono:ital,wght@0,200;0,400;0,500;0,700;1,400 & display=swap');
+@import url('https://fonts.googleapis.com/css2?family= Alfa+Slab+One & display = swap');
+
+.col-md-4{
+
+    font-family: 'Roboto Mono', monospace;
+}
+
+.row .col-md-4 h2{
+    font-family: 'Alfa Slab One', cursiva;
+
+    }
