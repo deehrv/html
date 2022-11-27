@@ -1,0 +1,36 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+
+}
+
+.barra ul {
+    list-style: none;
+    padding: 0;
+    background: #28d218a1;
+    height: 50px;
+    width: 100%;
+
+   
+
+}
+.barra ul li{
+    display: inline;
+   
+}
+.barra ul li a{
+    color: #181717;
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+    font-weight: 900;
+    font-size: 20px;
+     float: right;
+
+}
+.barra  ul li a:hover{
+    background-color: #ffffff;
+
+    
+}
