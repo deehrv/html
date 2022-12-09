@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+nav{
+    background-color: #5889d2;
+    width: 100%;
+    padding: 5px;
+}
+.logo,.social{
+    width: 25%;
+}
+.logo img{
+    width: 70px;
+}
+.menu{
+    width: 50%;
+}
+.menu nav a{
+    color: #171616;
+    text-decoration: none;
+    padding-right: 20px;
+    font-size: 18px;
+}
+
+
+.social button{
+    cursor: pointer;
+}
+
+
+
+   
+
